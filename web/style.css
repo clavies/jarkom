@@ -1,0 +1,21 @@
+ body {
+    background-image: url("4459452a.jpg");
+    /* background-position: center; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
+
+#headers {
+    font-size: 170%;
+    
+}
+
+.list {
+    font-size: 150%;
+}
+
+.section {
+    padding-top: 17%;
+}
